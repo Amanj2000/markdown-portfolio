@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- Secured **Rank 1** in *Intra College Coding Competition*.
+- Qualified for **ICPC Regionals 2020**.
