@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+- Favorite Superheroes
+  - Spiderman:spider:
+  - Batman:bat:
+  - Hulk:muscle:
+  - Deadpool:laughing:
+- Favorite Movie
+  - The Dark Knight:heart:
+  - The Matrix:man_technologist:
+  - Star Wars:star_struck:
