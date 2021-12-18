@@ -1,0 +1,2 @@
+- Secured **Rank 1** in *Intra College Coding Competition*.
+- Qualified for **ICPC Regionals 2020**.
